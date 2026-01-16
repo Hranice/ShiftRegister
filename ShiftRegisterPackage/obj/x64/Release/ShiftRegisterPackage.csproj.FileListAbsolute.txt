@@ -9,3 +9,4 @@ C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackag
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftReg.4E7EAAB5.Up2Date
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.dll
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.pdb
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.sourcelink.json

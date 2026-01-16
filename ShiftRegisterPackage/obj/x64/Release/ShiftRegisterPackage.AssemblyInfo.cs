@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is a ShiftRegister step.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+a35477494a78f7b6c1d2d63f94cc7b8f24477c31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShiftRegisterPackage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShiftRegisterPackage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

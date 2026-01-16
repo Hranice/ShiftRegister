@@ -6,14 +6,18 @@
              xmlns:conf="clr-namespace:Zebra.ADA.UI.Configuration;assembly=Zebra.ADA.UI"
              xmlns:input="clr-namespace:Zebra.ADA.UI.Input;assembly=Zebra.ADA.UI"
              mc:Ignorable="d"
-             d:DesignHeight="200" d:DesignWidth="350">
+             d:DesignHeight="240" d:DesignWidth="350">
+
     <Grid Margin="8">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="Auto"/>
             <ColumnDefinition Width="12"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
+
         <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="8"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="8"/>
             <RowDefinition Height="Auto"/>
@@ -29,5 +33,8 @@
 
         <TextBlock Grid.Row="4" Grid.Column="0" Text="Infinite" VerticalAlignment="Center"/>
         <input:ModernInputCheckBox Grid.Row="4" Grid.Column="2" Expression="{Binding Expressions[Infinite]}"/>
+
+        <TextBlock Grid.Row="6" Grid.Column="0" Text="Clear" VerticalAlignment="Center"/>
+        <input:ModernInputCheckBox Grid.Row="6" Grid.Column="2" Expression="{Binding Expressions[Clear]}"/>
     </Grid>
 </conf:WPFUIEditor>

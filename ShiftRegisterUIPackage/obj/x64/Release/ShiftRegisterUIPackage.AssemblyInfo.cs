@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShiftRegisterUIPackage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0.0+a35477494a78f7b6c1d2d63f94cc7b8f24477c31")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShiftRegisterUIPackage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShiftRegisterUIPackage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

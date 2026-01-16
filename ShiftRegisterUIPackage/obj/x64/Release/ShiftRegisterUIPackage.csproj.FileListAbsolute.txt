@@ -13,3 +13,4 @@ C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPack
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftReg.19EBE961.Up2Date
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.dll
 C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.pdb
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.sourcelink.json

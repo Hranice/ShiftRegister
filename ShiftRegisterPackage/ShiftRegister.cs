@@ -17,7 +17,8 @@ namespace ShiftRegisterPackage
     /// <item><description>If <see cref="Infinite"/> is false, the buffer is trimmed to <see cref="MaxSize"/>.</description></item>
     /// </list>
     /// </remarks>
-    public sealed class ShiftRegister : Step, IInternalCounter
+    [UIEditor("ShiftRegisterPackage.ShiftRegisterUIEditor")]
+    public class ShiftRegister : Step, IInternalCounter
     {
         private readonly ShiftRegisterBuffer _buffer = new();
 
