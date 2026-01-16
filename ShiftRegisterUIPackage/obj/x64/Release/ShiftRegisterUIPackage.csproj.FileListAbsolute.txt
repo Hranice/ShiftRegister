@@ -1,0 +1,15 @@
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterUIPackage.deps.json
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterUIPackage.dll
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterUIPackage.pdb
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.csproj.AssemblyReference.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIEditor.baml
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIEditor.g.cs
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage_MarkupCompile.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.g.resources
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.AssemblyInfoInputs.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.AssemblyInfo.cs
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.csproj.CoreCompileInputs.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftReg.19EBE961.Up2Date
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.dll
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterUIPackage\obj\x64\Release\ShiftRegisterUIPackage.pdb

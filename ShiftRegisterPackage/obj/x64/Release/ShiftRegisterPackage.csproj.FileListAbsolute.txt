@@ -1,0 +1,11 @@
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterPackage.deps.json
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterPackage.dll
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\assets\ShiftRegisterPackage.pdb
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.csproj.AssemblyReference.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.AssemblyInfoInputs.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.AssemblyInfo.cs
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.csproj.CoreCompileInputs.cache
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftReg.4E7EAAB5.Up2Date
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.dll
+C:\Users\jprochazka\source\repos\DA_CustomStep\ShiftRegister\ShiftRegisterPackage\obj\x64\Release\ShiftRegisterPackage.pdb
